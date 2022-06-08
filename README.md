@@ -9,7 +9,7 @@
 
 <h2>Jornada</h2> 
 <ul>
-  <li>Módulo I - Conteúdo de abertura (Introdução à programaça e pensamento computacional e introdução ao Git e ao Gihub)</li>
+  <li>Módulo I - Conteúdo de abertura (Introdução à programação e pensamento computacional e introdução ao Git e ao Github)</li>
   <li>Módulo II - HTML/CSS3/JS</li>
   <li>Módulo III - Angular</li>
   <li>Módulo IV - Java</li>
