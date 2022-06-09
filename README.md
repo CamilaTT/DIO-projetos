@@ -8,13 +8,13 @@
 <p text-align="justify">Este repositório conterá os desafios de códigos e projetos da trilha Fullstack do Santander Bootcamp 2022, que possui enfâse no desenvolvimento com Angular (front-end) e Java (back-end).</p>
 
 <h2>Jornada</h2> 
-<ul>
-  <li>Módulo I - Conteúdo de abertura (Introdução à programação e pensamento computacional e introdução ao Git e ao Github)</li>
-  <li>Módulo II - HTML/CSS3/JS</li>
-  <li>Módulo III - Angular</li>
-  <li>Módulo IV - Java</li>
-  <li>Módulo V - Spring Framework</li>
-</ul>
+
+  - [x] Módulo I - Conteúdo de abertura (Introdução à programação e pensamento computacional e introdução ao Git e ao Github)
+  - [ ] Módulo II - HTML/CSS3/JS 
+  - [ ] Módulo III - Angular
+  - [ ] Módulo IV - Java
+  - [ ] Módulo V - Spring Framework
+
 
 <h2>License</h2> 
 
