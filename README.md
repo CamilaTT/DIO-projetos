@@ -5,7 +5,7 @@
 </div>
 
 <h2>Visão geral</h2>
-<p text-align="justify">Este repositório conterá os desafios de códigos e projetos da trilha Fullstack do Santander Bootcamp 2022, que possui enfâse no desenvolvimento com Angular (front-end) e Java (back-end).</p>
+<p align="justify">Este repositório conterá os desafios de códigos e projetos da trilha Fullstack do Santander Bootcamp 2022, que possui enfâse no desenvolvimento com Angular (front-end) e Java (back-end).</p>
 
 <h2>Jornada</h2> 
 
