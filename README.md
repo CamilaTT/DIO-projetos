@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87024844/172685577-9b879f52-00a9-49e9-a5ed-287578d8e460.png" width="180">
+  <img src="https://user-images.githubusercontent.com/87024844/172685577-9b879f52-00a9-49e9-a5ed-287578d8e460.png" width="150">
   
   <p>Repositório de projetos da Digital Inovation One para o Santander Bootcamp 2022.</P>
 </div>
@@ -16,7 +16,7 @@
   - [ ] Módulo V - Spring Framework
 
 
-<h2>License</h2> 
+<h2>Licença</h2> 
 
 MIT © 
 
