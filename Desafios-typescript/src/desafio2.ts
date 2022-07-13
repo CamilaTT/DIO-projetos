@@ -1,23 +1,40 @@
 // Como podemos melhorar o esse código usando TS? 
+enum Profissao {
+    Atriz,
+    Padeiro
+}
 
-let pessoa1 = {};
-pessoa1.nome = "maria";
-pessoa1.idade = 29;
-pessoa1.profissao = "atriz"
+type Pessoa = {
+    nome: string,
+    idade: number,
+    profissao?: Profissao
+}
 
-let pessoa2 = {}
-pessoa2.nome = "roberto";
-pessoa2.idade = 19;
-pessoa2.profissao = "Padeiro";
+const pessoa1: Pessoa = {
+    nome: "maria",
+    idade: 29,
+    profissao: Profissao.Atriz
+}
 
-let pessoa3 = {
+const pessoa2 = {
+    nome: "roberto",
+    idade: 19,
+    profissao: Profissao.Padeiro
+}
+
+const pessoa3 = {
     nome: "laura",
-    idade: "32",
-    profissao: "Atriz"
-};
+    idade: 32,
+    profissao: Profissao.Atriz
+}
 
-let pessoa4 = {
-    nome = "carlos",
-    idade = 19,
-    profissao = "padeiro"
+const pessoa4 = {
+    nome: "carlos",
+    idade: 19,
+    profissao: Profissao.Padeiro
+}
+
+const pessoa5 = {
+    nome: "Áurea", 
+    idade: 5 
 }
